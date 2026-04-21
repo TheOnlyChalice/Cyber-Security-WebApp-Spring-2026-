@@ -1,0 +1,4 @@
+Step 1: Go to the directory with the password-checker-app folder 
+Step 2: Run "npm run dev"
+Step 3: Paste the local host link into browser
+Step 4: When done Ctrl + C to exit the terminal code and stop running the webapp.
